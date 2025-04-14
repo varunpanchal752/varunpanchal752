@@ -8,8 +8,6 @@
 - 😄 Hobbies: Reading books, Learning new language
 - ⚡ Fun Fact: Spending most of my time in problem solving
 - 🤔 Discuss: Algorithms anytime anywhere
-- 📫 How to reach me: Linkedin: `https://www.linkedin.com/in/varun-kumar-panchal-55a9a41a2/`
-
 
 <details>
   <summary>GitHub Statistics</summary>
